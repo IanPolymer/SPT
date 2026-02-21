@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1771697568
+        "UpdateTime": 1771698107
       },
       "Inventory": {
         "items": [
@@ -19419,30 +19419,6 @@
           "value": 0,
           "sourceId": "5d25e46e86f77409453bce7c"
         },
-        "699877c2576afb366c7e5f56": {
-          "id": "699877c2576afb366c7e5f56",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "699877c1576afb366c7e5f54"
-        },
-        "699877c1576afb366c7e5f32": {
-          "id": "699877c1576afb366c7e5f32",
-          "type": "CounterCreator",
-          "value": 11,
-          "sourceId": "699877c1576afb366c7e5f2e"
-        },
-        "699877c1576afb366c7e5f3d": {
-          "id": "699877c1576afb366c7e5f3d",
-          "type": "HandoverItem",
-          "value": 4,
-          "sourceId": "699877c1576afb366c7e5f3b"
-        },
-        "699877c1576afb366c7e5f4b": {
-          "id": "699877c1576afb366c7e5f4b",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "699877c1576afb366c7e5f46"
-        },
         "5a3fbdb086f7745a554f0c31": {
           "id": "5a3fbdb086f7745a554f0c31",
           "type": "CounterCreator",
@@ -19997,7 +19973,7 @@
         "HideoutCounters": null,
         "Seed": "f4bda0692664c58a39a7fc7a904c326e",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1771697724,
+        "sptUpdateLastRunTimestamp": 1771698516,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -32203,6 +32179,12 @@
         "author": "Fika",
         "dateAdded": 1771619629,
         "url": "https://github.com/project-fika/Fika-Server-CSharp"
+      },
+      {
+        "name": "ItemInfo",
+        "version": "2.0.10",
+        "author": "ODT",
+        "dateAdded": 1771698107
       }
     ],
     "receivedGifts": [
