@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 77,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 47,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -117,7 +117,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1772320109
+        "UpdateTime": 1772357501
       },
       "Inventory": {
         "items": [
@@ -16693,7 +16693,7 @@
         "HideoutCounters": null,
         "Seed": "2a1a0b9cb43ee0faeb9793bbe8cb556c",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1772320826,
+        "sptUpdateLastRunTimestamp": 1772357680,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -27570,12 +27570,7 @@
     "6789373b0f5ecebf0bc152d5": {},
     "6789374aebcb3ad4c6e073bd": {},
     "58330581ace78e27b8b10cee": {},
-    "54cb50c76803fa8b248b4571": {
-      "686e34636c2a18ed6b0eacd8": {
-        "count": 1,
-        "purchaseTimestamp": 1772312091
-      }
-    },
+    "54cb50c76803fa8b248b4571": {},
     "54cb57776803fa99248b456e": {},
     "67419e9d0d4541ce671543bb": {},
     "678937229797bd983dca2137": {},
