@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1774279489
+        "UpdateTime": 1774283493
       },
       "Inventory": {
         "items": [
@@ -18909,6 +18909,24 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": false
             }
+          },
+          {
+            "_id": "69c15c91bd82270ca0cff59b",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "parentId": "5fe49444ae6628187a2e78b8",
+            "slotId": "hideout",
+            "location": {
+              "x": 1,
+              "y": 4,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true,
+              "MedKit": {
+                "HpResource": 3.760868
+              }
+            }
           }
         ],
         "equipment": "69860ce4a4ad620d708978a5",
@@ -24751,24 +24769,6 @@
           "value": 0,
           "sourceId": "677fdcd302ff75fa82a40674"
         },
-        "69bdb6effe88df203843e3f5": {
-          "id": "69bdb6effe88df203843e3f5",
-          "type": "CounterCreator",
-          "value": 5,
-          "sourceId": "69bdb6effe88df203843e3f1"
-        },
-        "69bdb6effe88df203843e43c": {
-          "id": "69bdb6effe88df203843e43c",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "69bdb6effe88df203843e437"
-        },
-        "69bdb6effe88df203843e405": {
-          "id": "69bdb6effe88df203843e405",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "69bdb6effe88df203843e403"
-        },
         "69bdb6effe88df203843e424": {
           "id": "69bdb6effe88df203843e424",
           "type": "HandoverItem",
@@ -24780,12 +24780,6 @@
           "type": "HandoverItem",
           "value": 0,
           "sourceId": "69bdb6effe88df203843e422"
-        },
-        "69bdb6effe88df203843e413": {
-          "id": "69bdb6effe88df203843e413",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "69bdb6effe88df203843e40e"
         },
         "6672edebec0c3e2ad7d4e489": {
           "id": "6672edebec0c3e2ad7d4e489",
@@ -25319,7 +25313,7 @@
         "HideoutCounters": null,
         "Seed": "f4bda0692664c58a39a7fc7a904c326e",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1774281370,
+        "sptUpdateLastRunTimestamp": 1774284767,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -37210,8 +37204,8 @@
       "_id": "54cb50c76803fa8b248b4571"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": true,
       "messages": [
@@ -39332,25 +39326,11 @@
           "dt": 1774279825,
           "templateId": "5bdabfe486f7743e1665df6e 0",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "69c15c91bd82270ca0cff598",
-            "data": [
-              {
-                "_id": "69c15c91bd82270ca0cff59b",
-                "_tpl": "5751a89d24597722aa0e8db0",
-                "parentId": "69c15c91bd82270ca0cff598",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": true,
-                  "MedKit": {
-                    "HpResource": 3.760868
-                  }
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 259200
         }
@@ -41414,20 +41394,7 @@
     "67419e9d0d4541ce671543bb": {},
     "6748adca5c70634464b214a8": {},
     "58330581ace78e27b8b10cee": {},
-    "5ac3b934156ae10c4430e83c": {
-      "686e34076c2a18ed6b0e8849": {
-        "count": 1,
-        "purchaseTimestamp": 1774279847
-      },
-      "686e340a6c2a18ed6b0e8a32": {
-        "count": 1,
-        "purchaseTimestamp": 1774279827
-      },
-      "686e34096c2a18ed6b0e8976": {
-        "count": 1,
-        "purchaseTimestamp": 1774279859
-      }
-    },
+    "5ac3b934156ae10c4430e83c": {},
     "678937229797bd983dca2137": {}
   },
   "friends": [],
