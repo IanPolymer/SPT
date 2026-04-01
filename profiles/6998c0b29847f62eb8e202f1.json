@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 22,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 103,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -73,59 +73,59 @@
         "BodyParts": {
           "Chest": {
             "Health": {
-              "Current": 25.5,
+              "Current": 85,
               "Maximum": 85
             },
             "Effects": {
               "SevereMusclePain": {
-                "Time": 40024.54
+                "Time": 1
               }
             }
           },
           "Head": {
             "Health": {
-              "Current": 10.5,
+              "Current": 35,
               "Maximum": 35
             },
             "Effects": {}
           },
           "LeftArm": {
             "Health": {
-              "Current": 18,
+              "Current": 60,
               "Maximum": 60
             },
             "Effects": {}
           },
           "LeftLeg": {
             "Health": {
-              "Current": 19.5,
+              "Current": 65,
               "Maximum": 65
             },
             "Effects": {}
           },
           "RightArm": {
             "Health": {
-              "Current": 18,
+              "Current": 60,
               "Maximum": 60
             },
             "Effects": {}
           },
           "RightLeg": {
             "Health": {
-              "Current": 19.5,
+              "Current": 65,
               "Maximum": 65
             },
             "Effects": {}
           },
           "Stomach": {
             "Health": {
-              "Current": 21,
+              "Current": 70,
               "Maximum": 70
             },
             "Effects": {}
           }
         },
-        "UpdateTime": 1774816773
+        "UpdateTime": 1775024681
       },
       "Inventory": {
         "items": [
@@ -28705,6 +28705,380 @@
             "upd": {
               "StackObjectsCount": 43468
             }
+          },
+          {
+            "_id": "69ccb9808c6af30878691654",
+            "_tpl": "656fa61e94b480b8a500c0e8",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Front_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 52.95776,
+                "MaxDurability": 54.95776
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691655",
+            "_tpl": "656fa25e94b480b8a500c0e0",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Back_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 55,
+                "MaxDurability": 55
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691656",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Left_side_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 5.79606,
+                "MaxDurability": 13.79606
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691657",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Right_side_plate",
+            "upd": {
+              "Repairable": {
+                "Durability": 10.70758,
+                "MaxDurability": 14.70758
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691658",
+            "_tpl": "6575d561b15fef3dd4051670",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Soft_armor_front",
+            "upd": {
+              "Repairable": {
+                "Durability": 58.27537,
+                "MaxDurability": 69.2037
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691659",
+            "_tpl": "6575d56b16c2762fba005818",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Soft_armor_back",
+            "upd": {
+              "Repairable": {
+                "Durability": 62.9904671,
+                "MaxDurability": 68.88976
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165a",
+            "_tpl": "6575d57a16c2762fba00581c",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Soft_armor_left",
+            "upd": {
+              "Repairable": {
+                "Durability": 21.814064,
+                "MaxDurability": 28.58749
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165b",
+            "_tpl": "6575d589b15fef3dd4051674",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "soft_armor_right",
+            "upd": {
+              "Repairable": {
+                "Durability": 25.61217,
+                "MaxDurability": 29.61217
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165c",
+            "_tpl": "6575d598b15fef3dd4051678",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Collar",
+            "upd": {
+              "Repairable": {
+                "Durability": 17.6446152,
+                "MaxDurability": 27.90354
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165d",
+            "_tpl": "6575d5b316c2762fba005824",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Shoulder_l",
+            "upd": {
+              "Repairable": {
+                "Durability": 6.20431232,
+                "MaxDurability": 22.16857
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165e",
+            "_tpl": "6575d5bd16c2762fba005828",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Shoulder_r",
+            "upd": {
+              "Repairable": {
+                "Durability": 20.61259,
+                "MaxDurability": 23.30002
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869165f",
+            "_tpl": "6575d5a616c2762fba005820",
+            "parentId": "69ccb9808c6af30878691653",
+            "slotId": "Groin",
+            "upd": {
+              "Repairable": {
+                "Durability": 19.16069,
+                "MaxDurability": 31.16069
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691653",
+            "_tpl": "60a283193cb70855c43a381d",
+            "parentId": "5fe4a9fcf5aec236ec3836f7",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 32,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869164d",
+            "_tpl": "5a16b9fffcdbcb0176308b34",
+            "parentId": "69ccb9808c6af3087869164c",
+            "slotId": "mod_equipment_001"
+          },
+          {
+            "_id": "69ccb9808c6af3087869164e",
+            "_tpl": "657f8ec5f4c82973640b234c",
+            "parentId": "69ccb9808c6af3087869164c",
+            "slotId": "Helmet_top",
+            "upd": {
+              "Repairable": {
+                "Durability": 17.59851,
+                "MaxDurability": 23.59851
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869164f",
+            "_tpl": "657f8f10f4c82973640b2350",
+            "parentId": "69ccb9808c6af3087869164c",
+            "slotId": "Helmet_back",
+            "upd": {
+              "Repairable": {
+                "Durability": 20.4778175,
+                "MaxDurability": 22.50461
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869164c",
+            "_tpl": "5a154d5cfcdbcb001a3b00da",
+            "parentId": "5fe4a9fcf5aec236ec3836f7",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 30,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691651",
+            "_tpl": "5a718f958dc32e00094b97e7",
+            "parentId": "69ccb9808c6af30878691650",
+            "slotId": "1",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691652",
+            "_tpl": "5bae13ded4351e44f824bf38",
+            "parentId": "69ccb9808c6af30878691650",
+            "slotId": "5",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691650",
+            "_tpl": "628baf0b967de16aab5a4f36",
+            "parentId": "5fe4a9fcf5aec236ec3836f7",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 30,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691649",
+            "_tpl": "5c6d46132e221601da357d56",
+            "parentId": "5fe4a9fcf5aec236ec3836f7",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 26,
+              "r": "Horizontal"
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869163b",
+            "_tpl": "59db3a1d86f77429e05b4e92",
+            "parentId": "69ccb9808c6af3087869163a",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69ccb9808c6af3087869163e",
+            "_tpl": "58d268fc86f774111273f8c2",
+            "parentId": "69ccb9808c6af3087869163d",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af3087869163d",
+            "_tpl": "544a3a774bdc2d3a388b4567",
+            "parentId": "69ccb9808c6af3087869163c",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691640",
+            "_tpl": "5bb20dcad4351e3bac1212da",
+            "parentId": "69ccb9808c6af3087869163f",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "69ccb9808c6af3087869163f",
+            "_tpl": "5bb20d9cd4351e00334c9d8a",
+            "parentId": "69ccb9808c6af3087869163c",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69ccb9808c6af30878691643",
+            "_tpl": "56def37dd2720bec348b456a",
+            "parentId": "69ccb9808c6af30878691642",
+            "slotId": "mod_tactical",
+            "upd": {
+              "Light": {
+                "IsActive": false,
+                "SelectedMode": 1
+              }
+            }
+          },
+          {
+            "_id": "69ccb9808c6af30878691642",
+            "_tpl": "6269220d70b6c02e665f2635",
+            "parentId": "69ccb9808c6af30878691641",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "69ccb9808c6af30878691644",
+            "_tpl": "6269545d0e57f218e4548ca2",
+            "parentId": "69ccb9808c6af30878691641",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "69ccb9808c6af30878691645",
+            "_tpl": "57cffb66245977632f391a99",
+            "parentId": "69ccb9808c6af30878691641",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "69ccb9808c6af30878691641",
+            "_tpl": "5c6d11152e2216000f2003e7",
+            "parentId": "69ccb9808c6af3087869163c",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69ccb9808c6af3087869163c",
+            "_tpl": "5bb20d53d4351e4502010a69",
+            "parentId": "69ccb9808c6af3087869163a",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69ccb9808c6af30878691647",
+            "_tpl": "5d4406a8a4b9361e4f6eb8b7",
+            "parentId": "69ccb9808c6af30878691646",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "69ccb9808c6af30878691646",
+            "_tpl": "5bb20e58d4351e00320205d7",
+            "parentId": "69ccb9808c6af3087869163a",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69ccb9808c6af30878691648",
+            "_tpl": "5f633ff5c444ce7e3c30a006",
+            "parentId": "69ccb9808c6af3087869163a",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "69ccb9808c6af3087869163a",
+            "_tpl": "5bb2475ed4351e00853264e3",
+            "parentId": "5fe4a9fcf5aec236ec3836f7",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 26,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "Repairable": {
+                "Durability": 91.26741,
+                "MaxDurability": 93.55018
+              },
+              "FireMode": {
+                "FireMode": "fullauto"
+              }
+            }
           }
         ],
         "equipment": "6998c55822c87d3500f3454b",
@@ -37996,7 +38370,7 @@
         "MannequinPoses": {
           "69c8d61353a1df3bcc34f398": "67604ab20aa8253ebe05fd08"
         },
-        "sptUpdateLastRunTimestamp": 1774817170,
+        "sptUpdateLastRunTimestamp": 1775024788,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -40735,37 +41109,6 @@
           "availableAfter": 0
         },
         {
-          "qid": "69c82a7b69f46a3fe89941e5",
-          "startTime": 1774726302,
-          "status": 2,
-          "statusTimers": {
-            "2": 1774726302
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c82a7b69f46a3fe89941bc",
-          "startTime": 1774726305,
-          "status": 4,
-          "statusTimers": {
-            "2": 1774726305,
-            "4": 1774726324
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c82a7b69f46a3fe89941c8",
-          "startTime": 1774726306,
-          "status": 2,
-          "statusTimers": {
-            "2": 1774726306
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "69c82a7b69f46a3fe89941d7",
           "startTime": 1774726331,
           "status": 2,
@@ -40791,20 +41134,6 @@
             "608bd2465e0ef91ab810f98a",
             "608bd136c61c4b541b381da3",
             "608c187853b9dd01a116f480"
-          ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c82a7b69f46a3fe89941af",
-          "startTime": 1774726347,
-          "status": 4,
-          "statusTimers": {
-            "2": 1774726347,
-            "3": 1774729415.845,
-            "4": 1774730349.661
-          },
-          "completedConditions": [
-            "69c82a7b69f46a3fe89941b3"
           ],
           "availableAfter": 0
         },
@@ -40856,56 +41185,6 @@
           },
           "completedConditions": [],
           "availableAfter": 1774866925
-        },
-        {
-          "qid": "69c97f06e028be0d34fd17a6",
-          "startTime": 1774817060,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774812934.424,
-            "2": 1774817060
-          },
-          "completedConditions": []
-        },
-        {
-          "qid": "69c97f07e028be0d34fd17b3",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774812934.4259999
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c97f07e028be0d34fd17be",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774812934.4259999
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c97f07e028be0d34fd17cc",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774812934.4269998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c97f06e028be0d34fd17a6",
-          "startTime": 1774817060,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774812934.424,
-            "2": 1774817060
-          },
-          "completedConditions": []
         }
       ],
       "TradersInfo": {
@@ -41112,6 +41391,609 @@
           "id": "615ffc701c97c768137e719b",
           "name": "Daily",
           "activeQuests": [
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
+              "questStatus": {
+                "id": "69ccba668c6af30878691661",
+                "uid": "6998c0b29847f62eb8e202f1",
+                "qid": "69ccba668c6af30878691660",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "69ccba668c6af30878691660",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "69ccba668c6af30878691665",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 5,
+                    "type": "Elimination",
+                    "oneSessionOnly": false,
+                    "isResetOnConditionFailed": false,
+                    "isNecessary": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "69ccba668c6af30878691662",
+                      "conditions": [
+                        {
+                          "id": "69ccba668c6af30878691663",
+                          "dynamicLocale": true,
+                          "target": [
+                            "factory4_day",
+                            "factory4_night"
+                          ],
+                          "conditionType": "Location"
+                        },
+                        {
+                          "id": "69ccba668c6af30878691664",
+                          "dynamicLocale": true,
+                          "target": "Savage",
+                          "value": 1,
+                          "bodyPart": [],
+                          "daytime": {
+                            "from": 0,
+                            "to": 0
+                          },
+                          "conditionType": "Kills",
+                          "enemyHealthEffects": [],
+                          "resetOnSessionEnd": false
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "616052ea3054fc0e2c24ce6e description 58330581ace78e27b8b10cee 0",
+              "failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 58330581ace78e27b8b10cee 0",
+              "name": "616052ea3054fc0e2c24ce6e name 58330581ace78e27b8b10cee",
+              "note": "616052ea3054fc0e2c24ce6e note 58330581ace78e27b8b10cee",
+              "traderId": "58330581ace78e27b8b10cee",
+              "location": "55f2d3fd4bdc2d5f408b4567",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Elimination",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 58330581ace78e27b8b10cee 0",
+              "successMessageText": "616052ea3054fc0e2c24ce6e successMessageText 58330581ace78e27b8b10cee 0",
+              "acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 58330581ace78e27b8b10cee",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 58330581ace78e27b8b10cee",
+              "completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 58330581ace78e27b8b10cee",
+              "templateId": "616052ea3054fc0e2c24ce6e",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 6920,
+                    "id": "69ccba668c6af30878691666",
+                    "type": "Experience",
+                    "index": -1,
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 22415,
+                    "id": "69ccba668c6af30878691668",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "69ccba668c6af30878691667",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691667",
+                        "_tpl": "5449016a4bdc2d6f028b456f",
+                        "upd": {
+                          "StackObjectsCount": 22415,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 5,
+                    "id": "69ccba668c6af3087869166a",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "69ccba668c6af30878691669",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691669",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 5,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "69ccba668c6af3087869166c",
+                    "type": "Item",
+                    "index": 2,
+                    "target": "64c23df38c55c412dc222f04",
+                    "items": [
+                      {
+                        "_id": "64c23df38c55c412dc222f04",
+                        "_tpl": "5448bd6b4bdc2dfc2f8b4569",
+                        "upd": {
+                          "Repairable": {
+                            "Durability": 100,
+                            "MaxDurability": 100
+                          },
+                          "SpawnedInSession": true
+                        }
+                      },
+                      {
+                        "_id": "69ccba668c6af3087869166d",
+                        "_tpl": "5448c12b4bdc2d02308b456f",
+                        "parentId": "64c23df38c55c412dc222f04",
+                        "slotId": "mod_magazine"
+                      },
+                      {
+                        "_id": "69ccba668c6af3087869166e",
+                        "_tpl": "6374a822e629013b9c0645c8",
+                        "parentId": "64c23df38c55c412dc222f04",
+                        "slotId": "mod_reciever"
+                      },
+                      {
+                        "_id": "69ccba668c6af3087869166f",
+                        "_tpl": "63c6adcfb4ba094317063742",
+                        "parentId": "69ccba668c6af3087869166e",
+                        "slotId": "mod_sight_rear"
+                      },
+                      {
+                        "_id": "69ccba668c6af30878691670",
+                        "_tpl": "6374a7e7417239a7bf00f042",
+                        "parentId": "64c23df38c55c412dc222f04",
+                        "slotId": "mod_pistolgrip"
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "69ccba668c6af30878691672",
+                    "type": "Item",
+                    "index": 3,
+                    "target": "69ccba668c6af30878691671",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691671",
+                        "_tpl": "6544d4187c5457729210d277",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.01,
+                    "id": "69ccba668c6af30878691673",
+                    "type": "TraderStanding",
+                    "index": 4,
+                    "target": "58330581ace78e27b8b10cee",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 58330581ace78e27b8b10cee 0",
+              "side": "Pmc",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            },
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
+              "questStatus": {
+                "id": "69ccba668c6af30878691675",
+                "uid": "6998c0b29847f62eb8e202f1",
+                "qid": "69ccba668c6af30878691674",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "69ccba668c6af30878691674",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "69ccba668c6af30878691676",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "target": [
+                      "5734781f24597737e04bf32a"
+                    ],
+                    "value": 3,
+                    "onlyFoundInRaid": true,
+                    "dogtagLevel": 0,
+                    "maxDurability": 100,
+                    "minDurability": 0,
+                    "isEncoded": false,
+                    "conditionType": "HandoverItem"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "61604635c725987e815b1a46 description 5935c25fb3acc3127c3d8cd9 0",
+              "failMessageText": "61604635c725987e815b1a46 failMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "name": "61604635c725987e815b1a46 name 5935c25fb3acc3127c3d8cd9",
+              "note": "61604635c725987e815b1a46 note 5935c25fb3acc3127c3d8cd9",
+              "traderId": "5935c25fb3acc3127c3d8cd9",
+              "location": "any",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Completion",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "61604635c725987e815b1a46 startedMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "successMessageText": "61604635c725987e815b1a46 successMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "templateId": "61604635c725987e815b1a46",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 19212,
+                    "id": "69ccba668c6af30878691677",
+                    "type": "Experience",
+                    "index": -1,
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 518,
+                    "id": "69ccba668c6af30878691679",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "69ccba668c6af30878691678",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691678",
+                        "_tpl": "569668774bdc2da2298b4568",
+                        "upd": {
+                          "StackObjectsCount": 518,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 7,
+                    "id": "69ccba668c6af3087869167b",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "69ccba668c6af3087869167a",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af3087869167a",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 7,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "69ccba668c6af3087869167d",
+                    "type": "Item",
+                    "index": 2,
+                    "target": "69ccba668c6af3087869167c",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af3087869167c",
+                        "_tpl": "5d0375ff86f774186372f685",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.04,
+                    "id": "69ccba668c6af3087869167e",
+                    "type": "TraderStanding",
+                    "index": 3,
+                    "target": "5935c25fb3acc3127c3d8cd9",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "side": "Pmc",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            },
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
+              "questStatus": {
+                "id": "69ccba668c6af30878691680",
+                "uid": "6998c0b29847f62eb8e202f1",
+                "qid": "69ccba668c6af3087869167f",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "69ccba668c6af3087869167f",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "69ccba668c6af30878691684",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 3,
+                    "type": "Completion",
+                    "oneSessionOnly": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "69ccba668c6af30878691683",
+                      "conditions": [
+                        {
+                          "id": "69ccba668c6af30878691681",
+                          "dynamicLocale": true,
+                          "status": [
+                            "Survived"
+                          ],
+                          "conditionType": "ExitStatus"
+                        },
+                        {
+                          "id": "69ccba668c6af30878691682",
+                          "dynamicLocale": true,
+                          "target": [
+                            "laboratory"
+                          ],
+                          "conditionType": "Location"
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "616041eb031af660100c9967 description 5935c25fb3acc3127c3d8cd9 0",
+              "failMessageText": "616041eb031af660100c9967 failMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "name": "616041eb031af660100c9967 name 5935c25fb3acc3127c3d8cd9",
+              "note": "616041eb031af660100c9967 note 5935c25fb3acc3127c3d8cd9",
+              "traderId": "5935c25fb3acc3127c3d8cd9",
+              "location": "5b0fc42d86f7744a585f9105",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Exploration",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "616041eb031af660100c9967 startedMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "successMessageText": "616041eb031af660100c9967 successMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 5935c25fb3acc3127c3d8cd9",
+              "templateId": "616041eb031af660100c9967",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 10373,
+                    "id": "69ccba668c6af30878691685",
+                    "type": "Experience",
+                    "index": -1,
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 187,
+                    "id": "69ccba668c6af30878691687",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "69ccba668c6af30878691686",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691686",
+                        "_tpl": "569668774bdc2da2298b4568",
+                        "upd": {
+                          "StackObjectsCount": 187,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 4,
+                    "id": "69ccba668c6af30878691689",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "69ccba668c6af30878691688",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691688",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 4,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "69ccba668c6af3087869168b",
+                    "type": "Item",
+                    "index": 2,
+                    "target": "584148a524597759eb357a40",
+                    "items": [
+                      {
+                        "_id": "584148a524597759eb357a40",
+                        "_tpl": "576a581d2459771e7b1bc4f1"
+                      },
+                      {
+                        "_id": "69ccba668c6af3087869168c",
+                        "_tpl": "576a5ed62459771e9c2096cb",
+                        "parentId": "584148a524597759eb357a40",
+                        "slotId": "mod_magazine"
+                      },
+                      {
+                        "_id": "69ccba668c6af3087869168d",
+                        "_tpl": "576a63cd2459771e796e0e11",
+                        "parentId": "584148a524597759eb357a40",
+                        "slotId": "mod_pistol_grip"
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 2,
+                    "id": "69ccba668c6af3087869168f",
+                    "type": "Item",
+                    "index": 3,
+                    "target": "69ccba668c6af3087869168e",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af3087869168e",
+                        "_tpl": "5fc0f9b5d724d907e2077d82",
+                        "upd": {
+                          "StackObjectsCount": 2,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.02,
+                    "id": "69ccba668c6af30878691690",
+                    "type": "TraderStanding",
+                    "index": 4,
+                    "target": "5935c25fb3acc3127c3d8cd9",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 5935c25fb3acc3127c3d8cd9 0",
+              "side": "Pmc",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            }
+          ],
+          "inactiveQuests": [
             {
               "changeCost": [
                 {
@@ -41628,547 +42510,9 @@
               "arenaLocations": []
             }
           ],
-          "inactiveQuests": [
-            {
-              "changeCost": [
-                {
-                  "templateId": "5449016a4bdc2d6f028b456f",
-                  "count": 5000
-                }
-              ],
-              "changeStandingCost": 0,
-              "sptRepatableGroupName": "Daily",
-              "questStatus": {
-                "id": "69c82a7b69f46a3fe89941b0",
-                "uid": "6998c0b29847f62eb8e202f1",
-                "qid": "69c82a7b69f46a3fe89941af",
-                "startTime": 0,
-                "status": 1,
-                "statusTimers": {}
-              },
-              "_id": "69c82a7b69f46a3fe89941af",
-              "canShowNotificationsInGame": true,
-              "conditions": {
-                "AvailableForFinish": [
-                  {
-                    "id": "69c82a7b69f46a3fe89941b3",
-                    "index": 0,
-                    "dynamicLocale": true,
-                    "globalQuestCounterId": "",
-                    "visibilityConditions": [],
-                    "parentId": "",
-                    "value": 4,
-                    "type": "Elimination",
-                    "oneSessionOnly": false,
-                    "isResetOnConditionFailed": false,
-                    "isNecessary": false,
-                    "doNotResetIfCounterCompleted": false,
-                    "counter": {
-                      "id": "69c82a7b69f46a3fe89941b1",
-                      "conditions": [
-                        {
-                          "id": "69c82a7b69f46a3fe89941b2",
-                          "dynamicLocale": true,
-                          "target": "AnyPmc",
-                          "value": 1,
-                          "bodyPart": [],
-                          "daytime": {
-                            "from": 0,
-                            "to": 0
-                          },
-                          "conditionType": "Kills",
-                          "enemyHealthEffects": [],
-                          "resetOnSessionEnd": false
-                        }
-                      ]
-                    },
-                    "completeInSeconds": 0,
-                    "conditionType": "CounterCreator"
-                  }
-                ],
-                "AvailableForStart": [],
-                "Fail": []
-              },
-              "description": "616052ea3054fc0e2c24ce6e description 5ac3b934156ae10c4430e83c 0",
-              "failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 5ac3b934156ae10c4430e83c 0",
-              "name": "616052ea3054fc0e2c24ce6e name 5ac3b934156ae10c4430e83c",
-              "note": "616052ea3054fc0e2c24ce6e note 5ac3b934156ae10c4430e83c",
-              "traderId": "5ac3b934156ae10c4430e83c",
-              "location": "any",
-              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-              "type": "Elimination",
-              "isKey": false,
-              "restartable": false,
-              "instantComplete": false,
-              "secretQuest": false,
-              "startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 5ac3b934156ae10c4430e83c 0",
-              "successMessageText": "616052ea3054fc0e2c24ce6e successMessageText 5ac3b934156ae10c4430e83c 0",
-              "acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 5ac3b934156ae10c4430e83c",
-              "acceptanceAndFinishingSource": "eft",
-              "declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 5ac3b934156ae10c4430e83c",
-              "completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 5ac3b934156ae10c4430e83c",
-              "templateId": "616052ea3054fc0e2c24ce6e",
-              "rewards": {
-                "Success": [
-                  {
-                    "value": 10721,
-                    "id": "69c82a7b69f46a3fe89941b4",
-                    "type": "Experience",
-                    "index": -1,
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 22676,
-                    "id": "69c82a7b69f46a3fe89941b6",
-                    "type": "Item",
-                    "index": 0,
-                    "target": "69c82a7b69f46a3fe89941b5",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941b5",
-                        "_tpl": "5449016a4bdc2d6f028b456f",
-                        "upd": {
-                          "StackObjectsCount": 22676,
-                          "SpawnedInSession": false
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 4,
-                    "id": "69c82a7b69f46a3fe89941b8",
-                    "type": "Item",
-                    "index": 1,
-                    "target": "69c82a7b69f46a3fe89941b7",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941b7",
-                        "_tpl": "5d235b4d86f7742e017bc88a",
-                        "upd": {
-                          "StackObjectsCount": 4,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 1,
-                    "id": "69c82a7b69f46a3fe89941ba",
-                    "type": "Item",
-                    "index": 2,
-                    "target": "69c82a7b69f46a3fe89941b9",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941b9",
-                        "_tpl": "656fa25e94b480b8a500c0e0",
-                        "upd": {
-                          "StackObjectsCount": 1,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 0.01,
-                    "id": "69c82a7b69f46a3fe89941bb",
-                    "type": "TraderStanding",
-                    "index": 3,
-                    "target": "5ac3b934156ae10c4430e83c",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  }
-                ],
-                "Started": [],
-                "Fail": []
-              },
-              "status": 0,
-              "changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 5ac3b934156ae10c4430e83c 0",
-              "side": "Pmc",
-              "progressSource": "eft",
-              "rankingModes": [],
-              "gameModes": [],
-              "arenaLocations": []
-            },
-            {
-              "changeCost": [
-                {
-                  "templateId": "5449016a4bdc2d6f028b456f",
-                  "count": 5000
-                }
-              ],
-              "changeStandingCost": 0,
-              "sptRepatableGroupName": "Daily",
-              "questStatus": {
-                "id": "69c82a7b69f46a3fe89941bd",
-                "uid": "6998c0b29847f62eb8e202f1",
-                "qid": "69c82a7b69f46a3fe89941bc",
-                "startTime": 0,
-                "status": 1,
-                "statusTimers": {}
-              },
-              "_id": "69c82a7b69f46a3fe89941bc",
-              "canShowNotificationsInGame": true,
-              "conditions": {
-                "AvailableForFinish": [
-                  {
-                    "id": "69c82a7b69f46a3fe89941be",
-                    "index": 0,
-                    "dynamicLocale": true,
-                    "visibilityConditions": [],
-                    "parentId": "",
-                    "target": [
-                      "5b4335ba86f7744d2837a264"
-                    ],
-                    "value": 2,
-                    "onlyFoundInRaid": true,
-                    "dogtagLevel": 0,
-                    "maxDurability": 100,
-                    "minDurability": 0,
-                    "isEncoded": false,
-                    "conditionType": "HandoverItem"
-                  }
-                ],
-                "AvailableForStart": [],
-                "Fail": []
-              },
-              "description": "61604635c725987e815b1a46 description 5935c25fb3acc3127c3d8cd9 0",
-              "failMessageText": "61604635c725987e815b1a46 failMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "name": "61604635c725987e815b1a46 name 5935c25fb3acc3127c3d8cd9",
-              "note": "61604635c725987e815b1a46 note 5935c25fb3acc3127c3d8cd9",
-              "traderId": "5935c25fb3acc3127c3d8cd9",
-              "location": "any",
-              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-              "type": "Completion",
-              "isKey": false,
-              "restartable": false,
-              "instantComplete": false,
-              "secretQuest": false,
-              "startedMessageText": "61604635c725987e815b1a46 startedMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "successMessageText": "61604635c725987e815b1a46 successMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "acceptPlayerMessage": "61604635c725987e815b1a46 acceptPlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "acceptanceAndFinishingSource": "eft",
-              "declinePlayerMessage": "61604635c725987e815b1a46 declinePlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "completePlayerMessage": "61604635c725987e815b1a46 completePlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "templateId": "61604635c725987e815b1a46",
-              "rewards": {
-                "Success": [
-                  {
-                    "value": 13828,
-                    "id": "69c82a7b69f46a3fe89941bf",
-                    "type": "Experience",
-                    "index": -1,
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 462,
-                    "id": "69c82a7b69f46a3fe89941c1",
-                    "type": "Item",
-                    "index": 0,
-                    "target": "69c82a7b69f46a3fe89941c0",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941c0",
-                        "_tpl": "569668774bdc2da2298b4568",
-                        "upd": {
-                          "StackObjectsCount": 462,
-                          "SpawnedInSession": false
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 6,
-                    "id": "69c82a7b69f46a3fe89941c3",
-                    "type": "Item",
-                    "index": 1,
-                    "target": "69c82a7b69f46a3fe89941c2",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941c2",
-                        "_tpl": "5d235b4d86f7742e017bc88a",
-                        "upd": {
-                          "StackObjectsCount": 6,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 1,
-                    "id": "69c82a7b69f46a3fe89941c5",
-                    "type": "Item",
-                    "index": 2,
-                    "target": "69c82a7b69f46a3fe89941c4",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941c4",
-                        "_tpl": "5d6fc78386f77449d825f9dc",
-                        "upd": {
-                          "StackObjectsCount": 1,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 0.03,
-                    "id": "69c82a7b69f46a3fe89941c6",
-                    "type": "TraderStanding",
-                    "index": 3,
-                    "target": "5935c25fb3acc3127c3d8cd9",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 28.5,
-                    "id": "69c82a7b69f46a3fe89941c7",
-                    "type": "Skill",
-                    "index": 4,
-                    "target": "Endurance",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  }
-                ],
-                "Started": [],
-                "Fail": []
-              },
-              "status": 0,
-              "changeQuestMessageText": "61604635c725987e815b1a46 changeQuestMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "side": "Pmc",
-              "progressSource": "eft",
-              "rankingModes": [],
-              "gameModes": [],
-              "arenaLocations": []
-            },
-            {
-              "changeCost": [
-                {
-                  "templateId": "5449016a4bdc2d6f028b456f",
-                  "count": 5000
-                }
-              ],
-              "changeStandingCost": 0,
-              "sptRepatableGroupName": "Daily",
-              "questStatus": {
-                "id": "69c82a7b69f46a3fe89941c9",
-                "uid": "6998c0b29847f62eb8e202f1",
-                "qid": "69c82a7b69f46a3fe89941c8",
-                "startTime": 0,
-                "status": 1,
-                "statusTimers": {}
-              },
-              "_id": "69c82a7b69f46a3fe89941c8",
-              "canShowNotificationsInGame": true,
-              "conditions": {
-                "AvailableForFinish": [
-                  {
-                    "id": "69c82a7b69f46a3fe89941cd",
-                    "index": 0,
-                    "dynamicLocale": true,
-                    "globalQuestCounterId": "",
-                    "visibilityConditions": [],
-                    "parentId": "",
-                    "value": 3,
-                    "type": "Completion",
-                    "oneSessionOnly": false,
-                    "doNotResetIfCounterCompleted": false,
-                    "counter": {
-                      "id": "69c82a7b69f46a3fe89941cc",
-                      "conditions": [
-                        {
-                          "id": "69c82a7b69f46a3fe89941ca",
-                          "dynamicLocale": true,
-                          "status": [
-                            "Survived"
-                          ],
-                          "conditionType": "ExitStatus"
-                        },
-                        {
-                          "id": "69c82a7b69f46a3fe89941cb",
-                          "dynamicLocale": true,
-                          "target": [
-                            "Lighthouse"
-                          ],
-                          "conditionType": "Location"
-                        }
-                      ]
-                    },
-                    "completeInSeconds": 0,
-                    "conditionType": "CounterCreator"
-                  }
-                ],
-                "AvailableForStart": [],
-                "Fail": []
-              },
-              "description": "616041eb031af660100c9967 description 5935c25fb3acc3127c3d8cd9 0",
-              "failMessageText": "616041eb031af660100c9967 failMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "name": "616041eb031af660100c9967 name 5935c25fb3acc3127c3d8cd9",
-              "note": "616041eb031af660100c9967 note 5935c25fb3acc3127c3d8cd9",
-              "traderId": "5935c25fb3acc3127c3d8cd9",
-              "location": "5704e4dad2720bb55b8b4567",
-              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-              "type": "Exploration",
-              "isKey": false,
-              "restartable": false,
-              "instantComplete": false,
-              "secretQuest": false,
-              "startedMessageText": "616041eb031af660100c9967 startedMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "successMessageText": "616041eb031af660100c9967 successMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "acceptanceAndFinishingSource": "eft",
-              "declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 5935c25fb3acc3127c3d8cd9",
-              "templateId": "616041eb031af660100c9967",
-              "rewards": {
-                "Success": [
-                  {
-                    "value": 6480,
-                    "id": "69c82a7b69f46a3fe89941ce",
-                    "type": "Experience",
-                    "index": -1,
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 196,
-                    "id": "69c82a7b69f46a3fe89941d0",
-                    "type": "Item",
-                    "index": 0,
-                    "target": "69c82a7b69f46a3fe89941cf",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941cf",
-                        "_tpl": "569668774bdc2da2298b4568",
-                        "upd": {
-                          "StackObjectsCount": 196,
-                          "SpawnedInSession": false
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 5,
-                    "id": "69c82a7b69f46a3fe89941d2",
-                    "type": "Item",
-                    "index": 1,
-                    "target": "69c82a7b69f46a3fe89941d1",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941d1",
-                        "_tpl": "5d235b4d86f7742e017bc88a",
-                        "upd": {
-                          "StackObjectsCount": 5,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 3,
-                    "id": "69c82a7b69f46a3fe89941d4",
-                    "type": "Item",
-                    "index": 2,
-                    "target": "69c82a7b69f46a3fe89941d3",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941d3",
-                        "_tpl": "590c5c9f86f77477c91c36e7",
-                        "upd": {
-                          "StackObjectsCount": 3,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 0.01,
-                    "id": "69c82a7b69f46a3fe89941d5",
-                    "type": "TraderStanding",
-                    "index": 3,
-                    "target": "5935c25fb3acc3127c3d8cd9",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 28.5,
-                    "id": "69c82a7b69f46a3fe89941d6",
-                    "type": "Skill",
-                    "index": 4,
-                    "target": "Strength",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  }
-                ],
-                "Started": [],
-                "Fail": []
-              },
-              "status": 0,
-              "changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 5935c25fb3acc3127c3d8cd9 0",
-              "side": "Pmc",
-              "progressSource": "eft",
-              "rankingModes": [],
-              "gameModes": [],
-              "arenaLocations": []
-            }
-          ],
-          "endTime": 1774899334,
+          "endTime": 1775111142,
           "changeRequirement": {
-            "69c97f06e028be0d34fd17a6": {
+            "69ccba668c6af30878691660": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
@@ -42177,16 +42521,16 @@
               ],
               "changeStandingCost": 0.01
             },
-            "69c97f07e028be0d34fd17b3": {
+            "69ccba668c6af30878691674": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
                   "count": 5000
                 }
               ],
-              "changeStandingCost": 0.01
+              "changeStandingCost": 0
             },
-            "69c97f07e028be0d34fd17be": {
+            "69ccba668c6af3087869167f": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
@@ -42590,6 +42934,184 @@
               ],
               "changeStandingCost": 0,
               "questStatus": {
+                "id": "69ccba668c6af30878691692",
+                "uid": "6998c0b29847f62eb8e202f1",
+                "qid": "69ccba668c6af30878691691",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "69ccba668c6af30878691691",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "69ccba668c6af30878691696",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 2,
+                    "type": "Elimination",
+                    "oneSessionOnly": false,
+                    "isResetOnConditionFailed": false,
+                    "isNecessary": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "69ccba668c6af30878691693",
+                      "conditions": [
+                        {
+                          "id": "69ccba668c6af30878691694",
+                          "dynamicLocale": true,
+                          "target": [
+                            "Shoreline"
+                          ],
+                          "conditionType": "Location"
+                        },
+                        {
+                          "id": "69ccba668c6af30878691695",
+                          "dynamicLocale": true,
+                          "target": "AnyPmc",
+                          "value": 1,
+                          "bodyPart": [],
+                          "daytime": {
+                            "from": 0,
+                            "to": 0
+                          },
+                          "conditionType": "Kills",
+                          "enemyHealthEffects": [],
+                          "resetOnSessionEnd": false
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "62825ef60e88d037dc1eb428 description 579dc571d53a0658a154fbec 0",
+              "failMessageText": "62825ef60e88d037dc1eb428 failMessageText 579dc571d53a0658a154fbec 0",
+              "name": "62825ef60e88d037dc1eb428 name 579dc571d53a0658a154fbec",
+              "note": "62825ef60e88d037dc1eb428 note 579dc571d53a0658a154fbec",
+              "traderId": "579dc571d53a0658a154fbec",
+              "location": "5704e554d2720bac5b8b456e",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Elimination",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "62825ef60e88d037dc1eb428 startedMessageText 579dc571d53a0658a154fbec 0",
+              "successMessageText": "62825ef60e88d037dc1eb428 successMessageText 579dc571d53a0658a154fbec 0",
+              "acceptPlayerMessage": "62825ef60e88d037dc1eb428 acceptPlayerMessage 579dc571d53a0658a154fbec",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "62825ef60e88d037dc1eb428 declinePlayerMessage 579dc571d53a0658a154fbec",
+              "completePlayerMessage": "62825ef60e88d037dc1eb428 completePlayerMessage 579dc571d53a0658a154fbec",
+              "templateId": "62825ef60e88d037dc1eb428",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 213,
+                    "id": "69ccba668c6af30878691698",
+                    "type": "Item",
+                    "index": -1,
+                    "target": "69ccba668c6af30878691697",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691697",
+                        "_tpl": "569668774bdc2da2298b4568",
+                        "upd": {
+                          "StackObjectsCount": 213,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 3,
+                    "id": "69ccba668c6af3087869169a",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "69ccba668c6af30878691699",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af30878691699",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 3,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "69ccba668c6af3087869169c",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "69ccba668c6af3087869169b",
+                    "items": [
+                      {
+                        "_id": "69ccba668c6af3087869169b",
+                        "_tpl": "6492d7847363b8a52206bc52",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.01,
+                    "id": "69ccba668c6af3087869169d",
+                    "type": "TraderStanding",
+                    "index": 2,
+                    "target": "579dc571d53a0658a154fbec",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "62825ef60e88d037dc1eb428 changeQuestMessageText 579dc571d53a0658a154fbec 0",
+              "side": "Scav",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            }
+          ],
+          "inactiveQuests": [
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
+              "questStatus": {
                 "id": "69c97f07e028be0d34fd17cd",
                 "uid": "6998c0b29847f62eb8e202f1",
                 "qid": "69c97f07e028be0d34fd17cc",
@@ -42753,191 +43275,16 @@
               "arenaLocations": []
             }
           ],
-          "inactiveQuests": [
-            {
-              "changeCost": [
-                {
-                  "templateId": "5449016a4bdc2d6f028b456f",
-                  "count": 5000
-                }
-              ],
-              "changeStandingCost": 0,
-              "sptRepatableGroupName": "Daily_Savage",
-              "questStatus": {
-                "id": "69c82a7b69f46a3fe89941e6",
-                "uid": "6998c0b29847f62eb8e202f1",
-                "qid": "69c82a7b69f46a3fe89941e5",
-                "startTime": 0,
-                "status": 1,
-                "statusTimers": {}
-              },
-              "_id": "69c82a7b69f46a3fe89941e5",
-              "canShowNotificationsInGame": true,
-              "conditions": {
-                "AvailableForFinish": [
-                  {
-                    "id": "69c82a7b69f46a3fe89941e9",
-                    "index": 0,
-                    "dynamicLocale": true,
-                    "globalQuestCounterId": "",
-                    "visibilityConditions": [],
-                    "parentId": "",
-                    "value": 5,
-                    "type": "Elimination",
-                    "oneSessionOnly": false,
-                    "isResetOnConditionFailed": false,
-                    "isNecessary": false,
-                    "doNotResetIfCounterCompleted": false,
-                    "counter": {
-                      "id": "69c82a7b69f46a3fe89941e7",
-                      "conditions": [
-                        {
-                          "id": "69c82a7b69f46a3fe89941e8",
-                          "dynamicLocale": true,
-                          "target": "AnyPmc",
-                          "value": 1,
-                          "bodyPart": [
-                            "Chest",
-                            "Stomach",
-                            "Head"
-                          ],
-                          "daytime": {
-                            "from": 0,
-                            "to": 0
-                          },
-                          "conditionType": "Kills",
-                          "enemyHealthEffects": [],
-                          "resetOnSessionEnd": false
-                        }
-                      ]
-                    },
-                    "completeInSeconds": 0,
-                    "conditionType": "CounterCreator"
-                  }
-                ],
-                "AvailableForStart": [],
-                "Fail": []
-              },
-              "description": "62825ef60e88d037dc1eb428 description 579dc571d53a0658a154fbec 0",
-              "failMessageText": "62825ef60e88d037dc1eb428 failMessageText 579dc571d53a0658a154fbec 0",
-              "name": "62825ef60e88d037dc1eb428 name 579dc571d53a0658a154fbec",
-              "note": "62825ef60e88d037dc1eb428 note 579dc571d53a0658a154fbec",
-              "traderId": "579dc571d53a0658a154fbec",
-              "location": "any",
-              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-              "type": "Elimination",
-              "isKey": false,
-              "restartable": false,
-              "instantComplete": false,
-              "secretQuest": false,
-              "startedMessageText": "62825ef60e88d037dc1eb428 startedMessageText 579dc571d53a0658a154fbec 0",
-              "successMessageText": "62825ef60e88d037dc1eb428 successMessageText 579dc571d53a0658a154fbec 0",
-              "acceptPlayerMessage": "62825ef60e88d037dc1eb428 acceptPlayerMessage 579dc571d53a0658a154fbec",
-              "acceptanceAndFinishingSource": "eft",
-              "declinePlayerMessage": "62825ef60e88d037dc1eb428 declinePlayerMessage 579dc571d53a0658a154fbec",
-              "completePlayerMessage": "62825ef60e88d037dc1eb428 completePlayerMessage 579dc571d53a0658a154fbec",
-              "templateId": "62825ef60e88d037dc1eb428",
-              "rewards": {
-                "Success": [
-                  {
-                    "value": 229,
-                    "id": "69c82a7b69f46a3fe89941eb",
-                    "type": "Item",
-                    "index": -1,
-                    "target": "69c82a7b69f46a3fe89941ea",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941ea",
-                        "_tpl": "569668774bdc2da2298b4568",
-                        "upd": {
-                          "StackObjectsCount": 229,
-                          "SpawnedInSession": false
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 2,
-                    "id": "69c82a7b69f46a3fe89941ed",
-                    "type": "Item",
-                    "index": 0,
-                    "target": "69c82a7b69f46a3fe89941ec",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941ec",
-                        "_tpl": "5d235b4d86f7742e017bc88a",
-                        "upd": {
-                          "StackObjectsCount": 2,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 1,
-                    "id": "69c82a7b69f46a3fe89941ef",
-                    "type": "Item",
-                    "index": 1,
-                    "target": "69c82a7b69f46a3fe89941ee",
-                    "items": [
-                      {
-                        "_id": "69c82a7b69f46a3fe89941ee",
-                        "_tpl": "5c793fc42e221600114ca25d",
-                        "upd": {
-                          "StackObjectsCount": 1,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 0.02,
-                    "id": "69c82a7b69f46a3fe89941f0",
-                    "type": "TraderStanding",
-                    "index": 2,
-                    "target": "579dc571d53a0658a154fbec",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  }
-                ],
-                "Started": [],
-                "Fail": []
-              },
-              "status": 0,
-              "changeQuestMessageText": "62825ef60e88d037dc1eb428 changeQuestMessageText 579dc571d53a0658a154fbec 0",
-              "side": "Scav",
-              "progressSource": "eft",
-              "rankingModes": [],
-              "gameModes": [],
-              "arenaLocations": []
-            }
-          ],
-          "endTime": 1774899334,
+          "endTime": 1775111142,
           "changeRequirement": {
-            "69c97f07e028be0d34fd17cc": {
+            "69ccba668c6af30878691691": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
                   "count": 5000
                 }
               ],
-              "changeStandingCost": 0
+              "changeStandingCost": 0.01
             }
           },
           "freeChanges": 0,
@@ -43523,7 +43870,7 @@
       },
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1774889474,
+        "nextResetTime": 1775062274,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -48317,10 +48664,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c6d26d91dc4621c462c11d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "21.03.2026",
@@ -48337,10 +48681,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c6d26d91dc4621c462c138",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "22.03.2026",
@@ -48374,6 +48715,46 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {},
+          "systemData": {
+            "date": "29.03.2026",
+            "time": "19:00",
+            "location": "bigmap"
+          }
+        },
+        {
+          "_id": "69ccb9808c6af30878691639",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1775024512,
+          "templateId": "58fe0e4586f774728248ca13 1",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "69ccb97f8c6af30878691638",
+            "data": []
+          },
+          "maxStorageTime": 345600,
+          "systemData": {
+            "date": "28.03.2026",
+            "time": "21:38",
+            "location": "rezervbase"
+          }
+        },
+        {
+          "_id": "69ccb9808c6af3087869164b",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1775024512,
+          "templateId": "58fe0e4586f774728248ca13 4",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "69ccb9808c6af3087869164a",
+            "data": []
+          },
+          "maxStorageTime": 345600,
           "systemData": {
             "date": "29.03.2026",
             "time": "19:00",
@@ -48920,10 +49301,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c819f2abdd2d3e0891afa3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
@@ -49676,10 +50054,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8d77d53a1df3bcc350537",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -49702,10 +50077,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c92a9d9d55de3f3435a782",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
@@ -50040,10 +50412,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83ce269f46a3fe89d0f70",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -50814,10 +51183,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c7269f46a3fe89cfe4a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -50840,10 +51206,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c9772c8a9adb34f04ba6f5",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -50855,10 +51218,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98f1fe028be0d3400f481",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
@@ -70412,10 +70772,7 @@
           "text": "Your DS Arms SA58 7.62x51 assault rifle 1 items were bought by Styrr.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b0c69f46a3fe8996089",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70426,10 +70783,7 @@
           "text": "Your Gemtech ONE multi-caliber sound suppressor 1 items were bought by Karthel.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b2169f46a3fe8996090",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70440,10 +70794,7 @@
           "text": "Your Aimpoint PRO reflex sight 1 items were bought by archon0ne.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b2169f46a3fe8996094",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70454,10 +70805,7 @@
           "text": "Your Zenit RK-2 tactical foregrip 1 items were bought by scrob.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b2169f46a3fe8996098",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70468,10 +70816,7 @@
           "text": "Your SureFire XC1 tactical flashlight 1 items were bought by LightoftheWorld.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b4969f46a3fe8996efc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70482,10 +70827,7 @@
           "text": "Your Insight WMX200 tactical flashlight 1 items were bought by riku8405.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b4969f46a3fe8996f00",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70496,10 +70838,7 @@
           "text": "Your Zenit Perst-3 tactical device 1 items were bought by Shibdib.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b4969f46a3fe8996f04",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70510,10 +70849,7 @@
           "text": "Your SIG Sauer ROMEO8T reflex sight 1 items were bought by Karthel.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b7169f46a3fe8997cfa",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70524,10 +70860,7 @@
           "text": "Your AK-74 Hexagon 5.45x39 sound suppressor 1 items were bought by mighty_condor.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b7b69f46a3fe8997cff",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70538,10 +70871,7 @@
           "text": "Your Steiner DBAL-PL tactical device 1 items were bought by KokaZ93.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b8f69f46a3fe8997d04",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70552,10 +70882,7 @@
           "text": "Your DeltaPoint Cross Slot Mount base 1 items were bought by JP21.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b9969f46a3fe8997f73",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70566,10 +70893,7 @@
           "text": "Your Leupold DeltaPoint Reflex Sight 1 items were bought by egbog.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82b9969f46a3fe8997f77",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70580,10 +70904,7 @@
           "text": "Your Alyonka chocolate bar 1 items were bought by snapple.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82bb869f46a3fe8998d93",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70594,10 +70915,7 @@
           "text": "Your Rotor 43 5.56x45 sound suppressor 1 items were bought by Cabbit.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82bb869f46a3fe8998d97",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70608,10 +70926,7 @@
           "text": "Your Wilcox RAPTAR ES Tactical Rangefinder 1 items were bought by crustyselenium_.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82bd669f46a3fe8998d9d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70622,10 +70937,7 @@
           "text": "Your L3Harris LA-5B/PEQ tactical device 1 items were bought by DrakiaXYZ.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82bd669f46a3fe8998da1",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70636,10 +70948,7 @@
           "text": "Your Aimpoint CompM4 reflex sight 1 items were bought by toaddsworth.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82be069f46a3fe8998da6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70650,10 +70959,7 @@
           "text": "Your PNB (Product 16) stimulant injector 1 items were bought by DrunkGeko.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82c9569f46a3fe899bdc4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70664,10 +70970,7 @@
           "text": "Your SJ6 TGLabs combat stimulant injector 1 items were bought by Tadikas.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82c9f69f46a3fe899bdcb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70678,10 +70981,7 @@
           "text": "Your Obdolbos cocktail injector 1 items were bought by ViP3R_76.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82c9f69f46a3fe899bdcf",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70692,10 +70992,7 @@
           "text": "Your 3-(b-TG) stimulant injector 1 items were bought by Hobbes.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82c9f69f46a3fe899bdd3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70707,10 +71004,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82cbf69f46a3fe899cc50",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70732,10 +71026,7 @@
           "text": "Your Bulbex cable cutter 1 items were bought by RainbowPC.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83ac769f46a3fe89cc2a0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70746,10 +71037,7 @@
           "text": "Your Pipe grip wrench 1 items were bought by Kiki.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83ac769f46a3fe89cc2a4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70760,10 +71048,7 @@
           "text": "Your Kalashnikov AKS-74U 5.45x39 assault rifle 1 items were bought by Doge.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83ac769f46a3fe89cc2a8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70774,10 +71059,7 @@
           "text": "Your HK MP7 B&T Rotex 2 4.6x30 sound suppressor 1 items were bought by RainbowPC.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83adb69f46a3fe89cc2ae",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70788,10 +71070,7 @@
           "text": "Your Insight WMX200 tactical flashlight 1 items were bought by Security-Sama.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83adb69f46a3fe89cc2b2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70802,10 +71081,7 @@
           "text": "Your Valday PS-320 1/6x scope 1 items were bought by sch_kuromi.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83ae569f46a3fe89cc2b7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70816,10 +71092,7 @@
           "text": "Your Valday PS-320 1/6x scope 1 items were bought by Blackleaf420.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83aef69f46a3fe89cd0a4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70830,10 +71103,7 @@
           "text": "Your Rotor 43 7.62x39 sound suppressor 1 items were bought by toothpaste OJ combo.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b0369f46a3fe89cd0ab",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70844,10 +71114,7 @@
           "text": "Your Rotor 43 5.56x45 sound suppressor 1 items were bought by Arokar.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b0369f46a3fe89cd0af",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70858,10 +71125,7 @@
           "text": "Your Schmidt & Bender PM II 3-20x50 34mm riflescope 1 items were bought by jennacide.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b0369f46a3fe89cd0b3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70872,10 +71136,7 @@
           "text": "Your Zenit Klesch-2P flashlight with laser 1 items were bought by HiddenCirno.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b0d69f46a3fe89cd0b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70886,10 +71147,7 @@
           "text": "Your AK-74 TGP-A 5.45x39 sound suppressor 1 items were bought by Hjal.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b1769f46a3fe89cd0bd",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70900,10 +71158,7 @@
           "text": "Your SSD drive 1 items were bought by RomanxTheLast.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b3569f46a3fe89cd0c3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70914,10 +71169,7 @@
           "text": "Your Stark SE-5 Express Forward foregrip 1 items were bought by Ratthew.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b3569f46a3fe89cd0c7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70928,10 +71180,7 @@
           "text": "Your Dry fuel 1 items were bought by nader.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b3f69f46a3fe89cd0cc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70942,10 +71191,7 @@
           "text": "Your Gingy keychain 1 items were bought by Dueleus.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83b4a69f46a3fe89cd0d1",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70956,10 +71202,7 @@
           "text": "Your Augmentin antibiotic pills 1 items were bought by House16.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83bcc69f46a3fe89cefe0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70970,10 +71213,7 @@
           "text": "Your Augmentin antibiotic pills 1 items were bought by cabanyakeglya.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83bd669f46a3fe89cefe6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70984,10 +71224,7 @@
           "text": "Your Augmentin antibiotic pills 1 items were bought by doom.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83bd669f46a3fe89cefea",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -70998,10 +71235,7 @@
           "text": "Your xTG-12 antidote injector 1 items were bought by nooky.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83bfe69f46a3fe89ceff1",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71012,10 +71246,7 @@
           "text": "Your PNB (Product 16) stimulant injector 1 items were bought by IcyClawz.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83bfe69f46a3fe89ceff5",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71026,10 +71257,7 @@
           "text": "Your Morphine injector 1 items were bought by halik92.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c0869f46a3fe89ceffb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71040,10 +71268,7 @@
           "text": "Your Morphine injector 1 items were bought by TR_LEOPAR.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c0869f46a3fe89cefff",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71054,10 +71279,7 @@
           "text": "Your P22 (Product 22) stimulant injector 1 items were bought by witek.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c0869f46a3fe89cf003",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71068,10 +71290,7 @@
           "text": "Your Wilcox RAPTAR ES Tactical Rangefinder 1 items were bought by Kuromi.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c3169f46a3fe89cfe12",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71083,10 +71302,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c4f69f46a3fe89cfe23",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71098,10 +71314,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c83c6e69f46a3fe89cfe36",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71112,10 +71325,7 @@
           "text": "Your AWC Thor PSR XL multi-caliber sound suppressor 1 items were bought by 大熊.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8464c69f46a3fe89ec8d2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71126,10 +71336,7 @@
           "text": "Your HK MP7 B&T Rotex 2 4.6x30 sound suppressor 1 items were bought by IhanaMies.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8464c69f46a3fe89ec8d6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71140,10 +71347,7 @@
           "text": "Your EOTech HHS-1 hybrid sight (Tan) 1 items were bought by yojenkz.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8465669f46a3fe89ec8db",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71154,10 +71358,7 @@
           "text": "Your FN SCAR-L 5.56x45 assault rifle 1 items were bought by SamSWAT.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8466a69f46a3fe89ec8e0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71168,10 +71369,7 @@
           "text": "Your HK MP5 9x19 submachine gun (Navy 3 Round Burst) 1 items were bought by RivviN.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8467e69f46a3fe89ed6bb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71182,10 +71380,7 @@
           "text": "Your SureFire XC1 tactical flashlight 1 items were bought by Tyrian.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8468869f46a3fe89ed6c1",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71196,10 +71391,7 @@
           "text": "Your Zenit Klesch-2U tactical flashlight 1 items were bought by F1oridaMan.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8469269f46a3fe89ed6c6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71210,10 +71402,7 @@
           "text": "Your EOTech XPS3-0 holographic sight 1 items were bought by snapple.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8469269f46a3fe89ed6ca",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71224,10 +71413,7 @@
           "text": "Your Wilcox RAPTAR ES Tactical Rangefinder 1 items were bought by Zurugula.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c846b069f46a3fe89ed6d0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71238,10 +71424,7 @@
           "text": "Your Aimpoint ACRO P-1 reflex sight 1 items were bought by JustNU.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c846b069f46a3fe89ed6d4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71252,10 +71435,7 @@
           "text": "Your AK-74 Hexagon 5.45x39 sound suppressor 1 items were bought by cardsmen.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c846ba69f46a3fe89ed6d9",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71266,10 +71446,7 @@
           "text": "Your Rechargeable battery 1 items were bought by ShadowXtrex.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c846e369f46a3fe89ed6df",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71280,10 +71457,7 @@
           "text": "Your Pack of sugar 1 items were bought by Shibdib.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c846e369f46a3fe89ed6e3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71295,10 +71469,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8470369f46a3fe89ee6ff",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71309,10 +71480,7 @@
           "text": "Your Broken GPhone X smartphone 1 items were bought by TinglePlayerParkov.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8475169f46a3fe89ee713",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71323,10 +71491,7 @@
           "text": "Your Key tool 1 items were bought by papershredder432.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c84b0d69f46a3fe89fd70e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71337,10 +71502,7 @@
           "text": "Your Intelligence folder 1 items were bought by TarkovBasement.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c84b1769f46a3fe89fd714",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71351,10 +71513,7 @@
           "text": "Your Paracord 1 items were bought by Blackleaf420.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c84b2169f46a3fe89fd719",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71365,10 +71524,7 @@
           "text": "Your SIG MCX .300 Blackout assault rifle 1 items were bought by Clerance.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98633e028be0d34feadd5",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71379,10 +71535,7 @@
           "text": "Your Key case 1 items were bought by RootsNine.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98665e028be0d34febbec",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71393,10 +71546,7 @@
           "text": "Your Key tool 1 items were bought by svbtext.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98679e028be0d34febbf4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71407,10 +71557,7 @@
           "text": "Your Broken GPhone X smartphone 1 items were bought by turbodestroyer.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98683e028be0d34febbfa",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71421,10 +71568,7 @@
           "text": "Your SJ9 TGLabs combat stimulant injector 1 items were bought by r2go.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c986c0e028be0d34feca9c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71435,10 +71579,7 @@
           "text": "Your SJ9 TGLabs combat stimulant injector 1 items were bought by SKINNY BEPIS GAMING.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c986cae028be0d34fecaa2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71449,10 +71590,7 @@
           "text": "Your PNB (Product 16) stimulant injector 1 items were bought by LycorisOni.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c986cae028be0d34fecaa6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71463,10 +71601,7 @@
           "text": "Your Trimadol stimulant injector 1 items were bought by Bulld0z3r.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c986d4e028be0d34fecaab",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71477,10 +71612,7 @@
           "text": "Your AHF1-M stimulant injector 1 items were bought by Blackleaf420.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c986dee028be0d34fed859",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71491,10 +71623,7 @@
           "text": "Your Keycard holder case 1 items were bought by nidhoeggr.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e63e028be0d3400d6c4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71505,10 +71634,7 @@
           "text": "Your Aimpoint Micro T-1 reflex sight 1 items were bought by Affengeneral.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e6de028be0d3400d6c9",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71519,10 +71645,7 @@
           "text": "Your Military power filter 1 items were bought by lukewarmpudding.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e77e028be0d3400d6d0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71533,10 +71656,7 @@
           "text": "Your VPX Flash Storage Module 1 items were bought by AcidPhantasm.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e77e028be0d3400d6d4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71547,10 +71667,7 @@
           "text": "Your Tamatthi kunai knife replica 1 items were bought by Schrader.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e81e028be0d3400d6da",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71561,10 +71678,7 @@
           "text": "Your HK G28 B&T QD 7.62x51 sound suppressor 1 items were bought by JankyTheClown.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e81e028be0d3400d6de",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71575,10 +71689,7 @@
           "text": "Your Schmidt & Bender PM II 3-20x50 34mm riflescope 1 items were bought by R3.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e81e028be0d3400d6e2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71589,10 +71700,7 @@
           "text": "Your SJ12 TGLabs combat stimulant injector 1 items were bought by Boop.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e95e028be0d3400d6e8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71603,10 +71711,7 @@
           "text": "Your SJ6 TGLabs combat stimulant injector 1 items were bought by MeowletteBlackpaw.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98e95e028be0d3400d6ec",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -71617,10 +71722,7 @@
           "text": "Your L3Harris AN/PEQ-15 tactical device 1 items were bought by mr_puudlik_.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c98f74e028be0d3400f488",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
@@ -72090,10 +72192,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69bdae5f9113413d18cf0f74",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 864000
         }
       ],
@@ -72657,10 +72756,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c82cb469f46a3fe899cc48",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         }
       ],
@@ -73333,573 +73429,7 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1774854948,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 345600,
-      "systemData": {
-        "date": "28.03.2026",
-        "time": "21:38",
-        "location": "rezervbase"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 1",
-      "items": [
-        {
-          "_id": "69c00010dd6908356c972dce",
-          "_tpl": "5bb2475ed4351e00853264e3",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "FirstPrimaryWeapon",
-          "upd": {
-            "Repairable": {
-              "Durability": 91.26741,
-              "MaxDurability": 93.55018
-            },
-            "FireMode": {
-              "FireMode": "fullauto"
-            }
-          }
-        },
-        {
-          "_id": "69c00010dd6908356c972dcf",
-          "_tpl": "59db3a1d86f77429e05b4e92",
-          "parentId": "69c00010dd6908356c972dce",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd0",
-          "_tpl": "5bb20d53d4351e4502010a69",
-          "parentId": "69c00010dd6908356c972dce",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd1",
-          "_tpl": "544a3a774bdc2d3a388b4567",
-          "parentId": "69c00010dd6908356c972dd0",
-          "slotId": "mod_scope",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "69c00010dd6908356c972dd2",
-          "_tpl": "58d268fc86f774111273f8c2",
-          "parentId": "69c00010dd6908356c972dd1",
-          "slotId": "mod_scope",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "69c00010dd6908356c972dd3",
-          "_tpl": "5bb20d9cd4351e00334c9d8a",
-          "parentId": "69c00010dd6908356c972dd0",
-          "slotId": "mod_barrel"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd4",
-          "_tpl": "5bb20dcad4351e3bac1212da",
-          "parentId": "69c00010dd6908356c972dd3",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd5",
-          "_tpl": "5c6d11152e2216000f2003e7",
-          "parentId": "69c00010dd6908356c972dd0",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd6",
-          "_tpl": "6269220d70b6c02e665f2635",
-          "parentId": "69c00010dd6908356c972dd5",
-          "slotId": "mod_mount_000"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd7",
-          "_tpl": "56def37dd2720bec348b456a",
-          "parentId": "69c00010dd6908356c972dd6",
-          "slotId": "mod_tactical",
-          "upd": {
-            "Light": {
-              "IsActive": false,
-              "SelectedMode": 1
-            }
-          }
-        },
-        {
-          "_id": "69c00010dd6908356c972dd8",
-          "_tpl": "6269545d0e57f218e4548ca2",
-          "parentId": "69c00010dd6908356c972dd5",
-          "slotId": "mod_mount_001"
-        },
-        {
-          "_id": "69c00010dd6908356c972dd9",
-          "_tpl": "57cffb66245977632f391a99",
-          "parentId": "69c00010dd6908356c972dd5",
-          "slotId": "mod_foregrip"
-        },
-        {
-          "_id": "69c00010dd6908356c972dda",
-          "_tpl": "5bb20e58d4351e00320205d7",
-          "parentId": "69c00010dd6908356c972dce",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "69c00010dd6908356c972ddb",
-          "_tpl": "5d4406a8a4b9361e4f6eb8b7",
-          "parentId": "69c00010dd6908356c972dda",
-          "slotId": "mod_stock_000"
-        },
-        {
-          "_id": "69c00010dd6908356c972ddc",
-          "_tpl": "5f633ff5c444ce7e3c30a006",
-          "parentId": "69c00010dd6908356c972dce",
-          "slotId": "mod_charge"
-        },
-        {
-          "_id": "69beef6e7de28437e4a3c3ac",
-          "_tpl": "66326bfd46817c660d015132",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "FaceCover",
-          "upd": {
-            "Repairable": {
-              "Durability": 26,
-              "MaxDurability": 32
-            }
-          }
-        },
-        {
-          "_id": "69b7215150d5c437b001ae50",
-          "_tpl": "5d5e9c74a4b9364855191c40",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "Headwear"
-        },
-        {
-          "_id": "69b721f250d5c437b001cca6",
-          "_tpl": "5c0e66e2d174af02a96252f4",
-          "parentId": "69b7215150d5c437b001ae50",
-          "slotId": "mod_equipment_002",
-          "upd": {
-            "Repairable": {
-              "Durability": 30,
-              "MaxDurability": 30
-            }
-          }
-        },
-        {
-          "_id": "69b7215150d5c437b001ae51",
-          "_tpl": "657f8b94f92cd718b70154ff",
-          "parentId": "69b7215150d5c437b001ae50",
-          "slotId": "Helmet_top",
-          "upd": {
-            "Repairable": {
-              "Durability": 16,
-              "MaxDurability": 16
-            }
-          }
-        },
-        {
-          "_id": "69b7215150d5c437b001ae52",
-          "_tpl": "657f8b43f92cd718b70154fb",
-          "parentId": "69b7215150d5c437b001ae50",
-          "slotId": "Helmet_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 16,
-              "MaxDurability": 16
-            }
-          }
-        },
-        {
-          "_id": "69c00010dd6908356c972de1",
-          "_tpl": "5c6d46132e221601da357d56",
-          "parentId": "69bdb0279113413d18cf5d1d",
-          "slotId": "3",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        }
-      ]
-    },
-    {
-      "scheduledTime": 1774936053,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 345600,
-      "systemData": {
-        "date": "29.03.2026",
-        "time": "19:00",
-        "location": "bigmap"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 4",
-      "items": [
-        {
-          "_id": "69c8f3ec653e2738bc979530",
-          "_tpl": "5bae13ded4351e44f824bf38",
-          "parentId": "69c8f3e8653e2738bc979529",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8b88",
-          "_tpl": "63088377b5cd696784087147",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "Holster",
-          "upd": {
-            "Repairable": {
-              "Durability": 90.4205,
-              "MaxDurability": 98
-            },
-            "FireMode": {
-              "FireMode": "single"
-            }
-          }
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8b8f",
-          "_tpl": "630764fea987397c0816d219",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_barrel"
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8bbb",
-          "_tpl": "5a7b4960e899ef197b331a2d",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8b94",
-          "_tpl": "63075cc5962d0247b029dc2a",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8bba",
-          "_tpl": "5a71e0fb8dc32e00094b97f2",
-          "parentId": "69c83d7969f46a3fe89d8b94",
-          "slotId": "mod_sight_rear",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8b9e",
-          "_tpl": "5a71e0048dc32e000c52ecc8",
-          "parentId": "69c83d7969f46a3fe89d8b94",
-          "slotId": "mod_sight_front",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8bbe",
-          "_tpl": "5a7ad2e851dfba0016153692",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "69ae72615469851b2cbdbe07",
-          "_tpl": "56def37dd2720bec348b456a",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_tactical",
-          "upd": {
-            "Light": {
-              "IsActive": false,
-              "SelectedMode": 1
-            }
-          }
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8bbc",
-          "_tpl": "5a7ad55551dfba0015068f42",
-          "parentId": "69c83d7969f46a3fe89d8b88",
-          "slotId": "mod_mount"
-        },
-        {
-          "_id": "69c83d7969f46a3fe89d8bbd",
-          "_tpl": "57ae0171245977343c27bfcf",
-          "parentId": "69c83d7969f46a3fe89d8bbc",
-          "slotId": "mod_scope",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                2
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "69c6d26d91dc4621c462c130",
-          "_tpl": "66326bfd46817c660d015132",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "FaceCover",
-          "upd": {
-            "Repairable": {
-              "Durability": 28.463047,
-              "MaxDurability": 35
-            }
-          }
-        },
-        {
-          "_id": "69bdbf57fe88df2038461088",
-          "_tpl": "5a154d5cfcdbcb001a3b00da",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "Headwear"
-        },
-        {
-          "_id": "69bdbf57fe88df203846108b",
-          "_tpl": "5a16b9fffcdbcb0176308b34",
-          "parentId": "69bdbf57fe88df2038461088",
-          "slotId": "mod_equipment_001"
-        },
-        {
-          "_id": "69bdbf57fe88df203846108a",
-          "_tpl": "657f8ec5f4c82973640b234c",
-          "parentId": "69bdbf57fe88df2038461088",
-          "slotId": "Helmet_top",
-          "upd": {
-            "Repairable": {
-              "Durability": 17.59851,
-              "MaxDurability": 23.59851
-            }
-          }
-        },
-        {
-          "_id": "69bdbf57fe88df2038461089",
-          "_tpl": "657f8f10f4c82973640b2350",
-          "parentId": "69bdbf57fe88df2038461088",
-          "slotId": "Helmet_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 20.4778175,
-              "MaxDurability": 22.50461
-            }
-          }
-        },
-        {
-          "_id": "69b6a313c7dffb42dc62a051",
-          "_tpl": "628baf0b967de16aab5a4f36",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "TacticalVest"
-        },
-        {
-          "_id": "69c8309269f46a3fe89b170d",
-          "_tpl": "5a718f958dc32e00094b97e7",
-          "parentId": "69b6a313c7dffb42dc62a051",
-          "slotId": "1",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "69c8f3ec653e2738bc979531",
-          "_tpl": "5bae13ded4351e44f824bf38",
-          "parentId": "69b6a313c7dffb42dc62a051",
-          "slotId": "5",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccc7",
-          "_tpl": "60a283193cb70855c43a381d",
-          "parentId": "6998c55822c87d3500f3454b",
-          "slotId": "ArmorVest"
-        },
-        {
-          "_id": "69ac48a76f706b08f484cce0",
-          "_tpl": "656fa61e94b480b8a500c0e8",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Front_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 52.95776,
-              "MaxDurability": 54.95776
-            }
-          }
-        },
-        {
-          "_id": "69bdb0279113413d18cf5d2a",
-          "_tpl": "656fa25e94b480b8a500c0e0",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Back_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 55,
-              "MaxDurability": 55
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484cccd",
-          "_tpl": "6557458f83942d705f0c4962",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Left_side_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 5.79606,
-              "MaxDurability": 13.79606
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccd4",
-          "_tpl": "6557458f83942d705f0c4962",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Right_side_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 10.70758,
-              "MaxDurability": 14.70758
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccf9",
-          "_tpl": "6575d561b15fef3dd4051670",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Soft_armor_front",
-          "upd": {
-            "Repairable": {
-              "Durability": 58.27537,
-              "MaxDurability": 69.2037
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccd7",
-          "_tpl": "6575d56b16c2762fba005818",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Soft_armor_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 62.9904671,
-              "MaxDurability": 68.88976
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccf4",
-          "_tpl": "6575d57a16c2762fba00581c",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Soft_armor_left",
-          "upd": {
-            "Repairable": {
-              "Durability": 21.814064,
-              "MaxDurability": 28.58749
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccfc",
-          "_tpl": "6575d589b15fef3dd4051674",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "soft_armor_right",
-          "upd": {
-            "Repairable": {
-              "Durability": 25.61217,
-              "MaxDurability": 29.61217
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484cd01",
-          "_tpl": "6575d598b15fef3dd4051678",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Collar",
-          "upd": {
-            "Repairable": {
-              "Durability": 17.6446152,
-              "MaxDurability": 27.90354
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484cce5",
-          "_tpl": "6575d5b316c2762fba005824",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Shoulder_l",
-          "upd": {
-            "Repairable": {
-              "Durability": 6.20431232,
-              "MaxDurability": 22.16857
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccd1",
-          "_tpl": "6575d5bd16c2762fba005828",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Shoulder_r",
-          "upd": {
-            "Repairable": {
-              "Durability": 20.61259,
-              "MaxDurability": 23.30002
-            }
-          }
-        },
-        {
-          "_id": "69ac48a76f706b08f484ccda",
-          "_tpl": "6575d5a616c2762fba005820",
-          "parentId": "69ac48a76f706b08f484ccc7",
-          "slotId": "Groin",
-          "upd": {
-            "Repairable": {
-              "Durability": 19.16069,
-              "MaxDurability": 31.16069
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
     "66bf757f27d0b097db0acea5": {},
